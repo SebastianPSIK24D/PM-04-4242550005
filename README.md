@@ -13,7 +13,7 @@ dart run bin/parkir.dart
 ```
 
 ## Diagram Kelas
-(ss/diagram.png)
+![diagram](ss/diagram.png)
 
 ## Tangkapan Layar Keluaran
 ![Keluaran](ss/keluaran.png)
